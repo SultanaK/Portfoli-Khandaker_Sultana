@@ -320,15 +320,29 @@ footer.main-footer p.social a.facebook {
 footer.main-footer p.social a.linkedin {
   background-color: #c21f25;
 }
+footer.main-footer p.social a.linkedin:hover {
+  background-color: gray;
+}
 
 footer.main-footer p.social a.github {
+  background-color: grey;
+}
+footer.main-footer p.social a.email {
   background-color: #cd4378;
 }
-
-footer.main-footer p.social a.email {
+footer.main-footer p.social a.file {
+  background-color: #308ba7;
+}
+footer.main-footer p.social a.github:hover {
+  background-color: gainsboro;
+}
+footer.main-footer p.social a.facebook:hover {
+  background-color: gainsboro;
+}
+footer.main-footer p.social a.email:hover {
   background-color: #4a7f45;
 }
-footer.main-footer p.social a.file {
+footer.main-footer p.social a.file:hover {
   background-color: #4a7f45;
 }
 
